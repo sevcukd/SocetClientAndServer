@@ -1,0 +1,8 @@
+D:\Work\SocetTest\SocecetClient\bin\Debug\SocecetClient.exe.config
+D:\Work\SocetTest\SocecetClient\bin\Debug\SocecetClient.exe
+D:\Work\SocetTest\SocecetClient\bin\Debug\SocecetClient.pdb
+D:\Work\SocetTest\SocecetClient\obj\Debug\SocecetClient.csproj.AssemblyReference.cache
+D:\Work\SocetTest\SocecetClient\obj\Debug\SocecetClient.csproj.SuggestedBindingRedirects.cache
+D:\Work\SocetTest\SocecetClient\obj\Debug\SocecetClient.csproj.CoreCompileInputs.cache
+D:\Work\SocetTest\SocecetClient\obj\Debug\SocecetClient.exe
+D:\Work\SocetTest\SocecetClient\obj\Debug\SocecetClient.pdb
